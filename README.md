@@ -3,7 +3,7 @@
 
 ## This week's assignment is about making a company profile and deploying it with Netlify, Cloudflare (setting up DNS), and hosting the website (with NiagaHoster).
 
-### Website Structure
+## Website Structure
 1. HTML
     - Home Page contains all the information about the company.
     - Museum Location Page contains a list of museum locations that can be found in Indonesia.
@@ -12,8 +12,9 @@
     - style page = styling the HTML page for the website.
     - responsive page = responsive media for the website.
 
-### Setting Up the Website
-1. Github
+## Setting Up the Website
+#### Github
 <ol>
-    <li>Clone Repository</li>
+    <li>Clone Repository using git clone https://github.com/RevoU-FSSE-2/week-5-aljeazsharon.git</li>
+    ![](assets/image/)
 </ol>
