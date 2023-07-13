@@ -1,2 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/f6dTnkNL)
-# <h1 align="center">Week 05 Assignment</h1>
+<h1 align="center">Week 05 Assignment</h1>
+
+## This week assignment is about to make a company profile and deploys it with netlify, cloudflare (set up DNS) and hosting the website (with NiagaHoster)
+
