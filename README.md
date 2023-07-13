@@ -12,3 +12,8 @@
     - style page = styling the HTML page for the website.
     - responsive page = responsive media for the website.
 
+### Setting Up the Website
+1. Github
+<ol>
+    <li>Clone Repository</li>
+</ol>
