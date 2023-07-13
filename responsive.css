@@ -1,0 +1,136 @@
+@media only screen and (max-width: 600px) {
+    header {
+        font-family: simple;
+        font-size: 6rem;
+        display: flex;
+        align-items: center;
+    }
+
+    main {
+        font-family: simple;
+        font-size: 6rem;
+        display: flex;
+        align-items: center;
+    }
+
+    footer {
+        font-family: simple;
+        font-size: 3rem;
+        padding: 20px 60px; 
+    }
+
+    .grid-container .list .img {
+        font-family: simple;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .hamburger {
+        font-family: simple;
+        top: 45%;
+        right: 5%
+    }
+
+    .artlogo {
+        font-family: simple;
+        width: 30%;
+    }
+    
+    .hambutton {
+        font-family: simple;
+        position: fixed !important
+    }
+
+}
+
+@media only screen and (min-width: 768px) {
+    header {
+        font-family: simple;
+        font-size: 6rem;
+        display: flex;
+        align-items: center;
+    }
+
+    main {
+        font-family: simple;
+        font-size: 6rem;
+        display: flex;
+        align-items: center;
+    }
+
+    footer {
+        font-family: simple;
+        font-size: 3rem;
+        padding: 20px 60px; 
+    }
+
+    .grid-container .list .img {
+        font-family: simple;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .hamburger {
+        font-family: simple;
+        top: 45%;
+        right: 5%
+    }
+
+    .artlogo {
+        font-family: simple;
+        width: 30%;
+    }
+    
+    .hambutton {
+        font-family: simple;
+        position: fixed !important
+    }
+}
+
+@media only screen and (max-width: 1024px){
+    header {
+        font-family: simple;
+        font-size: 6rem;
+        display: flex;
+        align-items: center;
+    }
+
+    main {
+        font-family: simple;
+        font-size: 6rem;
+        display: flex;
+        align-items: center;
+    }
+
+    footer {
+        font-family: simple;
+        font-size: 3rem;
+        padding: 20px 60px; 
+    }
+
+    .grid-container .list .img {
+        font-family: simple;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .hamburger {
+        font-family: simple;
+        top: 45%;
+        right: 5%
+    }
+
+    .artlogo {
+        font-family: simple;
+        width: 30%;
+    }
+    
+    .hambutton {
+        font-family: simple;
+        position: fixed !important
+    }
+}
+
