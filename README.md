@@ -13,10 +13,31 @@
     - responsive page = responsive media for the website.
 
 ## Setting Up the Website
-#### Github
+### Github
 1. Git Clone Repository
    ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/1.clone.png?raw=true)
 
 2. Check Git Status
    ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/2.status.png?raw=true)
+
+3. Make a new branch "git checkout -b BRANCH_NAME" and check the git status again.
+   ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/3.new%20branch.png?raw=true)
+
+4. Git push
+   ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/4.push.png?raw=true)
+
+5. Git commit to BRANCH_NAME
+   ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/5.commit.png?raw=true)
+
+### Netlify
+1. Open Netlify account by logging in to your account and then add new site.
+   ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/9.addnewsite.png?raw=true)
+
+2. Import an existing project from a git repository by connecting to github.
+   ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/10.import.png?raw=true)
+
+3.
+
 4. 
+
+7. 
