@@ -15,6 +15,7 @@
 ## Setting Up the Website
 #### Github
 <ol>
-    <li>Clone Repository using git clone https://github.com/RevoU-FSSE-2/week-5-aljeazsharon.git</li>
-    ![alt text]([[https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/1.%20Sign%20Up%20to%20Netlify.png?raw=true])
+    <li>Clone Repository using git clone https://github.com/RevoU-FSSE-2/week-5-aljeazsharon.git
+        ![]([https://raw.githubusercontent.com/RevoU-FSSE-2/week-5-aljeazsharon/end/documentation/1.clone.png])
+    </li>
 </ol>
