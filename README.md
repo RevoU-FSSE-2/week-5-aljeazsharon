@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/f6dTnkNL)
+![image](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/assets/25450018/df636f05-35ac-46ec-bae2-054b16e93a5c)[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/f6dTnkNL)
 <h1 align="center"> Week 05 Assignment </h1>
 
 ## This week's assignment is about making a company profile and deploying it with Netlify, Cloudflare (setting up DNS), and hosting the website (with NiagaHoster).
@@ -63,4 +63,20 @@
    ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/15.setupDNS.png?raw=true)
 
 ### Site
-1. You can access
+1. You can access the site
+   Netlify Subdomain: creative-frangollo-3a2ba3.netlify.app
+   Primary domain: legereclava.site or www.legereclava.site
+
+   ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/17.accesslegereclava.png?raw=true)
+
+2. Home Page
+   ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/18.Homepage.png?raw=true)
+
+3. Museum Location Page
+   ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/19.locate.png?raw=true)
+
+4. Event Page
+   ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/20.event.png?raw=true)
+
+5. Footer Page
+   ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/21.footer.png?raw=true)
