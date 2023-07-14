@@ -15,6 +15,6 @@
 ## Setting Up the Website
 #### Github
 1. Git Clone Repository
-   ![alt text](https://raw.githubusercontent.com/RevoU-FSSE-2/week-4-aljeazsharon/main/assets/7.%20Git%20Clone%20Your%20Repository.png?raw=true)
+   ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/1.clone.png?raw=true)
 3. 
 
