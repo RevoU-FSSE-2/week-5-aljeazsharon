@@ -16,5 +16,8 @@
 #### Github
 <ol>
     <li>Clone Repository using git clone https://github.com/RevoU-FSSE-2/week-5-aljeazsharon.git</li>
-    ![](assets/image/)
+    ![](https://raw.githubusercontent.com/RevoU-FSSE-2/week-5-aljeazsharon/end/documentation/1.clone.png?raw=true)
+
+    <li>Check Git Status</li>
+    ![](https://raw.githubusercontent.com/RevoU-FSSE-2/week-5-aljeazsharon/end/documentation/2.status.png?raw=true)
 </ol>
