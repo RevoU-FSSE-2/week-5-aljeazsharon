@@ -30,14 +30,37 @@
    ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/5.commit.png?raw=true)
 
 ### Netlify
-1. Open Netlify account by logging in to your account and then add new site.
+1. Open your Netlify account by logging in to your account and then adding a new site.
    ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/9.addnewsite.png?raw=true)
 
 2. Import an existing project from a git repository by connecting to github.
    ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/10.import.png?raw=true)
 
-3.
+3. After connect to github account, choose your repository from Github that you want to deploy.
+   ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/11.choose.png?raw=true)
 
-4. 
+4. Deploying your website.
+   ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/12.deploying.png?raw=true)
 
-7. 
+5. Setting Up your new site with a custom domain.
+   ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/13.setup.png?raw=true)
+
+6. Add your custom domain to your site.
+   ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/14.customdomain.png?raw=true)
+
+7. Domains on Your Netlify Account.
+   ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/16.setupDNSnetlify.png?raw=true)
+
+### Niagahoster
+1. Login to Your Niagahoster Account
+   ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/8.loginniagahoster.png?raw=true)
+
+### CloudFlare
+1. Login to Your CloudFlare Account
+   ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/6.logincloudflare.png?raw=true)
+
+2. Setting up DNS management for your site by adding Type CNAME.
+   ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/15.setupDNS.png?raw=true)
+
+### Site
+1. You can access
