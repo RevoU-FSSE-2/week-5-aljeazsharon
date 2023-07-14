@@ -16,5 +16,7 @@
 #### Github
 1. Git Clone Repository
    ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/1.clone.png?raw=true)
-3. 
 
+2. Check Git Status
+   ![alt text](https://github.com/RevoU-FSSE-2/week-5-aljeazsharon/blob/end/documentation/2.status.png?raw=true)
+4. 
